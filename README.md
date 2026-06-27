@@ -3,16 +3,14 @@
 A complete multi-screen Flutter application built for the **Mobile App Development** assignment.  
 It demonstrates user authentication, form validation, REST API CRUD, offline-first caching, and clean architecture.
 
-github url: https://github.com/SHAFAY04/myapp/
-
 ---
 
 ## Student Information
 
 | Field | Value |
 |-------|-------|
-| **Student Name** | *ANas Mirza* |
-| **Student ID** | *SE221048* |
+| **Student Name** | *Anas Mirza* |
+| **Student ID** | *SE221030* |
 | **Course** | Mobile App Development |
 | **Framework** | Flutter / Dart |
 | **API** | JSONPlaceholder (`https://jsonplaceholder.typicode.com`) |
