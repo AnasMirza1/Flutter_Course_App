@@ -11,8 +11,8 @@ github url: https://github.com/SHAFAY04/myapp/
 
 | Field | Value |
 |-------|-------|
-| **Student Name** | *Muhammad Shafay* |
-| **Student ID** | *SE221098* |
+| **Student Name** | *ANas Mirza* |
+| **Student ID** | *SE221048* |
 | **Course** | Mobile App Development |
 | **Framework** | Flutter / Dart |
 | **API** | JSONPlaceholder (`https://jsonplaceholder.typicode.com`) |
